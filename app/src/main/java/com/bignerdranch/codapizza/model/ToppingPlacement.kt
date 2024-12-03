@@ -10,3 +10,4 @@ enum class ToppingPlacement (
     Right(R.string.placement_right),
     All(R.string.placement_all)
 }
+
